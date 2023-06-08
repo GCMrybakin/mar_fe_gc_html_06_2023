@@ -15,6 +15,9 @@ Crea una página como la que puedes ver a continuación. Guárdala llamándola p
 ![image](https://github.com/GCMrybakin/mar_fe_gc_html_06_2023/assets/135844963/489af3bf-2932-4e3e-8d8a-ba9e7bde7a87)
 
 ## Ejercicio 4
+Crea una página como la que puedes ver a continuación. Puedes modificar la página platosemana.html creada en el ejercicio anterior, aplícale los estilos necesarios para que se vea de la siguiente manera:
+
+![image](https://github.com/GCMrybakin/mar_fe_gc_html_06_2023/assets/135844963/e67c1741-d525-445d-af66-a080e9c41fae)
 
 ## Ejercicio 5
 
