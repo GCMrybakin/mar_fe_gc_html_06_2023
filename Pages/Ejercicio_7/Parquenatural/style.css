@@ -1,0 +1,30 @@
+body {
+    font-family: "Lucida Sans Unicode", sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: rgb(64, 207, 64);
+    border-bottom: 1px solid rgba(102, 102, 102, 0.39);
+}
+
+h3 {
+    color: rgb(204, 133, 0);
+}
+
+.Verde {
+    color: rgb(26, 155, 26);
+}
+
+.Naranja {
+    color: rgb(204, 133, 0);
+}
+
+.Borde {
+    border: 1px solid rgba(129, 129, 129, 0.329);
+    padding: 10px;
+    margin: 10px;
+}
