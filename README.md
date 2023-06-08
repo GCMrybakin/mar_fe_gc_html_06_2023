@@ -27,6 +27,12 @@ Crea una página como la que puedes ver a continuación. Puedes modificar la pá
 ![image](https://github.com/GCMrybakin/mar_fe_gc_html_06_2023/assets/135844963/b2bf9f83-fff6-4d49-b27e-b63f5a7f189c)
 
 ## Ejercicio 6
+1. Prepara una nueva carpeta llamada parquenatural que será la raiz del nuevo sitio.
+2. En ella crea una carpeta llamada imagenes.
+3. Para comenzar, crea la página index.html, y la página especies.html.
+4. Observa que las páginas enlazan una con la otra a través de la lista de enlace.
+5. Además, enlaza en la página con la hoja de estilo que crearás en el siguiente tema, y que se llamará estilo.css.
+
 
 ## Ejercicio 7
 
