@@ -59,10 +59,10 @@ Cambia el estilo del menú del sitio parquenatural para que se vea como aquí. O
 
 ![image](https://github.com/GCMrybakin/mar_fe_gc_html_06_2023/assets/135844963/2693899f-4a91-42f2-9b3b-a00497eecc1d)
 
-
 ## Ejercicio 10
+Cambia el estilo del menú del sitio parquenatural para que sea vea como aquí.
 
-## Ejercicio 11
+![image](https://github.com/GCMrybakin/mar_fe_gc_html_06_2023/assets/135844963/694baca9-edfa-4dd3-9bb5-541a976dbb0f)
 
-## Ejercicio 12
+Las imágenes que forman parte del diseño, las hemos creado nosotros. Observa que las esquinas del body son redondeadas, que el contenido tiene un degradado arriba y abajo, y los elementos del menú.
 
