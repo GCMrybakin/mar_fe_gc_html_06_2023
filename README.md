@@ -9,7 +9,7 @@ Sobre el código html que aparece a continuación modificar el color del fondo, 
 
 ![image](https://github.com/GCMrybakin/mar_fe_gc_html_06_2023/assets/135844963/7165bfa9-399a-49c9-93fc-555223366bef)
 
-## [Ejercicio 3](https://gcmrybakin.github.io/mar_fe_gc_html_06_2023/Pages/Ejercicio_3/Ejercicio3.html)
+## [Ejercicio 3](https://gcmrybakin.github.io/mar_fe_gc_html_06_2023/Pages/Ejercicio_3/platosemana.html)
 Crea una página como la que puedes ver a continuación. Guárdala llamándola platosemana.html, y la utilizaremos en la siguiente unidad.
 
 ![image](https://github.com/GCMrybakin/mar_fe_gc_html_06_2023/assets/135844963/489af3bf-2932-4e3e-8d8a-ba9e7bde7a87)
@@ -19,7 +19,7 @@ Crea una página como la que puedes ver a continuación. Puedes modificar la pá
 
 ![image](https://github.com/GCMrybakin/mar_fe_gc_html_06_2023/assets/135844963/e67c1741-d525-445d-af66-a080e9c41fae)
 
-## [Ejercicio 5](https://gcmrybakin.github.io/mar_fe_gc_html_06_2023/Pages/Ejercicio_5/Ejercicio5.html)
+## [Ejercicio 5](https://gcmrybakin.github.io/mar_fe_gc_html_06_2023/Pages/Ejercicio_5/postresemana.html)
 1. Crea un HTML necesario para la página. Guárdala como postresemana.html.
 2. Abre la página platosemana.html, y exportalos estilos a una Hoja de estilo.
 3. Vincula a postresemana.html la hoja de estilos que acabas de hacer.
