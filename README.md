@@ -47,8 +47,11 @@ Realiza los cambios necesarios en el sitio, teniendo en cuenta que la fuente que
 
 ![image](https://github.com/GCMrybakin/mar_fe_gc_html_06_2023/assets/135844963/d83a3c29-dbb9-4d39-b3b8-5f3e4efa6186)
 
-
 ## Ejercicio 8
+Cambia la maquetación de las páginas del sitio parquenatural para que la lista del menú quede a la izquierda y el contenido a la derecha, debajo del encabezado. Además, la página tendrá un ancho fijo de 900px, centrada en la ventana. Puedes ver cómo ha de quedar.
+
+![image](https://github.com/GCMrybakin/mar_fe_gc_html_06_2023/assets/135844963/9323146f-0652-4048-a6c6-8a439e07cff4)
+
 
 ## Ejercicio 9
 
