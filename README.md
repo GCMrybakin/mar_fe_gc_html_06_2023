@@ -33,6 +33,10 @@ Crea una página como la que puedes ver a continuación. Puedes modificar la pá
 4. Observa que las páginas enlazan una con la otra a través de la lista de enlace.
 5. Además, enlaza en la página con la hoja de estilo que crearás en el siguiente tema, y que se llamará estilo.css.
 
+![image](https://github.com/GCMrybakin/mar_fe_gc_html_06_2023/assets/135844963/ee63387a-0f2f-4b06-885d-0555300d4a9c)
+
+![image](https://github.com/GCMrybakin/mar_fe_gc_html_06_2023/assets/135844963/ae7f807b-c80f-4b73-9aae-d3a44726b440)
+
 
 ## Ejercicio 7
 
