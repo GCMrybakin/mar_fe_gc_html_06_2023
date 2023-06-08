@@ -6,6 +6,7 @@ Construir una página, tal cual aparece en la imagen adjunta, HTML titulada: Sec
 ![image](https://github.com/GCMrybakin/mar_fe_gc_html_06_2023/assets/135844963/ce5cec4e-86a8-4a10-9f55-a2270192f605)
 ## Ejercicio 2
 Sobre el código html que aparece a continuación modificar el color del fondo, de la fuente, la familia tipográfica y el tamaño de esta.
+
 ![image](https://github.com/GCMrybakin/mar_fe_gc_html_06_2023/assets/135844963/7165bfa9-399a-49c9-93fc-555223366bef)
 
 ## Ejercicio 3
