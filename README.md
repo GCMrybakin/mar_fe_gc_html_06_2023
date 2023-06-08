@@ -11,6 +11,7 @@ Sobre el código html que aparece a continuación modificar el color del fondo, 
 
 ## Ejercicio 3
 Crea una página como la que puedes ver a continuación. Guárdala llamándola platosemana.html, y la utilizaremos en la siguiente unidad.
+
 ![image](https://github.com/GCMrybakin/mar_fe_gc_html_06_2023/assets/135844963/489af3bf-2932-4e3e-8d8a-ba9e7bde7a87)
 
 ## Ejercicio 4
