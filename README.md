@@ -1,7 +1,7 @@
 # mar_fe_gc_html_06_2023
 T03 – HTML_CSS
 
-## [Ejercicio 1](https://github.com/GCMrybakin/mar_fe_gc_html_06_2023/tree/main/Pages/Ejercicio_1)
+## [Ejercicio 1](https://gcmrybakin.github.io/mar_fe_gc_html_06_2023/Pages/Ejercicio_1/Ejercicio1.html)
 Construir una página, tal cual aparece en la imagen adjunta, HTML titulada: Secciones y líneas generales de un documento HTML5. Deben emplearse las marcas básicas de HTML y estilos según los contenidos de módulo.
 ![image](https://github.com/GCMrybakin/mar_fe_gc_html_06_2023/assets/135844963/ce5cec4e-86a8-4a10-9f55-a2270192f605)
 ## [Ejercicio 2](https://github.com/GCMrybakin/mar_fe_gc_html_06_2023/tree/main/Pages/Ejercicio_2)
