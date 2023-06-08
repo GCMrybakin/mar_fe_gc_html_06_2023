@@ -26,7 +26,7 @@ Crea una página como la que puedes ver a continuación. Puedes modificar la pá
 
 ![image](https://github.com/GCMrybakin/mar_fe_gc_html_06_2023/assets/135844963/b2bf9f83-fff6-4d49-b27e-b63f5a7f189c)
 
-## [Ejercicio 6](https://github.com/GCMrybakin/mar_fe_gc_html_06_2023/tree/main/Pages/Ejercicio_6/Parquenatural/index.html)
+## [Ejercicio 6](https://gcmrybakin.github.io/mar_fe_gc_html_06_2023/Pages/Ejercicio_6/Parquenatural/index.html)
 1. Prepara una nueva carpeta llamada parquenatural que será la raiz del nuevo sitio.
 2. En ella crea una carpeta llamada imagenes.
 3. Para comenzar, crea la página index.html, y la página especies.html.
@@ -38,7 +38,7 @@ Crea una página como la que puedes ver a continuación. Puedes modificar la pá
 ![image](https://github.com/GCMrybakin/mar_fe_gc_html_06_2023/assets/135844963/ae7f807b-c80f-4b73-9aae-d3a44726b440)
 
 
-## [Ejercicio 7](https://github.com/GCMrybakin/mar_fe_gc_html_06_2023/tree/main/Pages/Ejercicio_7/Parquenatural/index.html)
+## [Ejercicio 7](https://gcmrybakin.github.io/mar_fe_gc_html_06_2023/Pages/Ejercicio_7/Parquenatural/index.html)
 Queremos que la página index.html, y que la página especies. html se vea como las imágenes que se vean a continuación.
 Realiza los cambios necesarios en el sitio, teniendo en cuenta que la fuente que deseamos emplear es Lucida Sans Unicode.
 
@@ -46,18 +46,18 @@ Realiza los cambios necesarios en el sitio, teniendo en cuenta que la fuente que
 
 ![image](https://github.com/GCMrybakin/mar_fe_gc_html_06_2023/assets/135844963/d83a3c29-dbb9-4d39-b3b8-5f3e4efa6186)
 
-## [Ejercicio 8](https://github.com/GCMrybakin/mar_fe_gc_html_06_2023/tree/main/Pages/Ejercicio_8/Parquenatural/index.html)
+## [Ejercicio 8](https://gcmrybakin.github.io/mar_fe_gc_html_06_2023/Pages/Ejercicio_8/Parquenatural/index.html)
 Cambia la maquetación de las páginas del sitio parquenatural para que la lista del menú quede a la izquierda y el contenido a la derecha, debajo del encabezado. Además, la página tendrá un ancho fijo de 900px, centrada en la ventana. Puedes ver cómo ha de quedar.
 
 ![image](https://github.com/GCMrybakin/mar_fe_gc_html_06_2023/assets/135844963/9323146f-0652-4048-a6c6-8a439e07cff4)
 
 
-## [Ejercicio 9](https://github.com/GCMrybakin/mar_fe_gc_html_06_2023/tree/main/Pages/Ejercicio_9/Parquenatural/index.html)
+## [Ejercicio 9](https://gcmrybakin.github.io/mar_fe_gc_html_06_2023/Pages/Ejercicio_9/Parquenatural/index.html)
 Cambia el estilo del menú del sitio parquenatural para que se vea como aquí. Observa que el estilo no es igual para el elemento que lleva a la página actual que para el resto. Además, estos últimos cambian cuando el cursor está encima.
 
 ![image](https://github.com/GCMrybakin/mar_fe_gc_html_06_2023/assets/135844963/2693899f-4a91-42f2-9b3b-a00497eecc1d)
 
-## [Ejercicio 10](https://github.com/GCMrybakin/mar_fe_gc_html_06_2023/tree/main/Pages/Ejercicio_10/Parquenatural/index.html)
+## [Ejercicio 10](https://gcmrybakin.github.io/mar_fe_gc_html_06_2023/Pages/Ejercicio_10/Parquenatural/index.html)
 Cambia el estilo del menú del sitio parquenatural para que sea vea como aquí.
 
 ![image](https://github.com/GCMrybakin/mar_fe_gc_html_06_2023/assets/135844963/694baca9-edfa-4dd3-9bb5-541a976dbb0f)
