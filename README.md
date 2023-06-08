@@ -40,6 +40,14 @@ Crea una página como la que puedes ver a continuación. Puedes modificar la pá
 
 ## Ejercicio 7
 
+Queremos que la página index.html, y que la página especies. html se vea como las imágenes que se vean a continuación.
+Realiza los cambios necesarios en el sitio, teniendo en cuenta que la fuente que deseamos emplear es Lucida Sans Unicode.
+
+![image](https://github.com/GCMrybakin/mar_fe_gc_html_06_2023/assets/135844963/1a7ec6b6-47fe-4925-8db7-d442b033b19f)
+
+![image](https://github.com/GCMrybakin/mar_fe_gc_html_06_2023/assets/135844963/d83a3c29-dbb9-4d39-b3b8-5f3e4efa6186)
+
+
 ## Ejercicio 8
 
 ## Ejercicio 9
