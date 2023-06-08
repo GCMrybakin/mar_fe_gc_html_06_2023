@@ -66,7 +66,3 @@ Cambia el estilo del menú del sitio parquenatural para que sea vea como aquí.
 
 Las imágenes que forman parte del diseño, las hemos creado nosotros. Observa que las esquinas del body son redondeadas, que el contenido tiene un degradado arriba y abajo, y los elementos del menú.
 
-## Ejercicio 11
-
-## Ejercicio 12
-
