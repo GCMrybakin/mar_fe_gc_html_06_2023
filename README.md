@@ -55,6 +55,11 @@ Cambia la maquetación de las páginas del sitio parquenatural para que la lista
 
 ## Ejercicio 9
 
+Cambia el estilo del menú del sitio parquenatural para que se vea como aquí. Observa que el estilo no es igual para el elemento que lleva a la página actual que para el resto. Además, estos últimos cambian cuando el cursor está encima.
+
+![image](https://github.com/GCMrybakin/mar_fe_gc_html_06_2023/assets/135844963/2693899f-4a91-42f2-9b3b-a00497eecc1d)
+
+
 ## Ejercicio 10
 
 ## Ejercicio 11
