@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-size: 24px;
+    background-color: #ffd992;
+    color: rgb(112, 112, 112);
+}
+
+h2 {
+    font-size: 28px;
+    color: rgb(107, 156, 190);
+}
+
+p {
+    color: rgb(82, 82, 82);
+}
+
+p i {
+    color: rgb(103, 140, 175);
+}
+
+p b {
+    color: rgb(57, 115, 165);
+}
+
+.sangrado {
+    margin-left: 20px;
+}
